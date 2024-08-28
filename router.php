@@ -9,6 +9,7 @@ $route = [
     "/subjects/NS" => "controllers/subjects.php",
     "/subjects/create" => "controllers/subjects.php",
     "/schedule" => "controllers/schedule.php",
+    "/evaluation" => "controllers/evaluation.php",
 ];
 
 function abort($code = 404){

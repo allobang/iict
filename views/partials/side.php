@@ -17,7 +17,7 @@
                     <a href="/schedule"><i class="fas fa-chart-bar"></i>Schedule</a>
                 </li>
                 <li>
-                    <a href="icons.html"><i class="fas fa-icons"></i>Icons</a>
+                    <a href="/evaluation"><i class="fas fa-icons"></i>Evaluation</a>
                 </li>
                 <li>
                     <a href="#uielementsmenu" data-bs-toggle="collapse" aria-expanded="false" class="dropdown-toggle no-caret-down"><i class="fas fa-layer-group"></i>UI Elements</a>

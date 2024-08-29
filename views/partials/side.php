@@ -17,6 +17,12 @@
                     <a href="/schedule"><i class="fas fa-chart-bar"></i>Schedule</a>
                 </li>
                 <li>
+                    <a href="/schedule2"><i class="fas fa-chart-bar"></i>Schedule2</a>
+                </li>
+                <li>
+                    <a href="/schedule3"><i class="fas fa-chart-bar"></i>Schedule3</a>
+                </li>
+                <li>
                     <a href="/evaluation"><i class="fas fa-icons"></i>Evaluation</a>
                 </li>
                 <li>

@@ -9,6 +9,8 @@ $route = [
     "/subjects/NS" => "controllers/subjects.php",
     "/subjects/create" => "controllers/subjects.php",
     "/schedule" => "controllers/schedule.php",
+    "/schedule2" => "controllers/schedule2.php",
+    "/schedule3" => "controllers/schedule3.php",
     "/evaluation" => "controllers/evaluation.php",
 ];
 

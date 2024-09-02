@@ -11,6 +11,7 @@
     <link href="/assets/vendor/fontawesome/css/brands.min.css" rel="stylesheet">
     <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="/assets/css/master.css" rel="stylesheet">
+    <script src="assets/vendor/jquery/jquery.min.js"></script>
 </head>
 
 <body>

@@ -23,6 +23,9 @@
                     <a href="/schedule3"><i class="fas fa-chart-bar"></i>Schedule3</a>
                 </li>
                 <li>
+                    <a href="/loading"><i class="fas fa-chart-bar"></i>Loading</a>
+                </li>
+                <li>
                     <a href="/evaluation"><i class="fas fa-icons"></i>Evaluation</a>
                 </li>
                 <li>

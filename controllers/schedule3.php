@@ -1,8 +1,30 @@
-<?php
-$config = require('config.php');
-$db = new Database($config['database']);
+<!DOCTYPE html>
+<html lang="en">
 
-// dd($facultyList);
-$title = "Schedule";
-$view ="views/schedule3.view.php";
-require "views/layout.view.php";
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My jQuery Project</title>
+    <script src="assets/vendor/jquery/jquery.min.js"></script>
+    <style>
+        a.test {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <a href="http://jquery.com/" class="test">jQuery</a>
+    
+    <script>
+        $(document).ready(function () {
+            $("a").click(function (event) {
+                event.preventDefault();
+                $(this).hide("slow");
+
+            });
+        });
+    </script>
+</body>
+
+</html>

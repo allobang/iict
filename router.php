@@ -11,6 +11,7 @@ $route = [
     "/schedule" => "controllers/schedule.php",
     "/schedule2" => "controllers/schedule2.php",
     "/schedule3" => "controllers/schedule3.php",
+    "/loading" => "controllers/loading.php",
     "/evaluation" => "controllers/evaluation.php",
 ];
 
